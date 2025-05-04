@@ -33,5 +33,3 @@ This project follows a structured analytics workflow:
 - **Data-backed insights** on why employees leave vs. why they stay.
 - **Recommendations** to optimize HR strategies for retention.
 
-## License
-This project is licensed under [Specify License] - see the LICENSE file for details.
